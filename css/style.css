@@ -1,5 +1,5 @@
 body {
-  background: antiquewhite;
+  background: wheat;
 }
 
 h1,
@@ -18,6 +18,6 @@ footer {
 }
 
 footer a {
-  color: rgba(11, 95, 31, 0.956);
+  color: rgba(11, 111, 34, 0.956);
   margin: 0 15px;
 }
