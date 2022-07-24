@@ -1,0 +1,23 @@
+body {
+  background: antiquewhite;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin: 25px auto;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: rgba(11, 95, 31, 0.956);
+  margin: 0 15px;
+}
